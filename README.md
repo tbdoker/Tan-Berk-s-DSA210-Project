@@ -10,6 +10,10 @@ I was pretty hesitiant about what topic to choose for this project at the beginn
 
 ---
 
+## **Hypothesis**  
+I travel more on weekends compared to weekdays due to having free time from school.
+
+---
 ## **Objectives**  
 1. Extract travel history data from Google Maps Timeline.  
 2. Clean and preprocess the data for analysis.  
