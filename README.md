@@ -34,7 +34,7 @@ I was pretty hesitiant about what topic to choose for this project at the beginn
    - Quantify distances traveled, average speed and transportation preferences.  
 
 2. **Machine Learning Integration:**  
-   - Will be filled later  
+   - Predict future travel habits, such as distance in each day.  
 
 ### **Visualization**  
 - Use Matplotlib for creating detailed visualizations.  
@@ -57,8 +57,8 @@ I was pretty hesitiant about what topic to choose for this project at the beginn
 
 ## **Tools and Technologies**  
 - **Programming Languages:** Python
-- **Libraries:** 
-- **Visualization Tools:**   
+- **Libraries:** json, pandas, datetime, google.colab, matplotlib, seaborn, numpy
+- **Visualization Tools:**   matplotlib
 - **Data Source:** Google Maps Timeline (via Google Takeout)  
 
 ---
